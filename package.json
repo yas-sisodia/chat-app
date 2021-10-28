@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
-  "author": "Krishnkant",
+  "author": "Yash Sisodia",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
