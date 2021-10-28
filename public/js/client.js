@@ -3,7 +3,7 @@ const socket = io();
 const form = document.getElementById('send-container')
 const messageInput = document.getElementById('messageInp')
 const messageContainer = document.querySelector('.container')
-var audio = new Audio('ting.mp3')
+var audio = new Audio('./music/ting.mp3')
 
 form.addEventListener('submit',(e)=>{
 
